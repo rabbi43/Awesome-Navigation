@@ -1,0 +1,103 @@
+/* NAVBAR STYLE */
+
+body{
+   position:relative;
+}
+
+.navbar-header{
+   background:white;
+   padding-top:10px;
+   /* box-shadow:1px 1px 10px #222; */
+   /* outline:1px solid gray; */
+   /*height:100vh;
+   width:100%;*/
+   font-family: 'League Gothic', sans-serif;
+   /*position:sticky;
+   top:0;*/
+   z-index:2;
+
+}
+
+.Badge{
+   color:white;
+   background:blue;
+   padding:3px;
+   border-radius:5px;
+   margin-left:7px;
+}
+
+i{
+   color:blue;
+}
+
+.container{
+   display:none; 
+   transition:2s;
+   
+}
+
+
+
+
+.links{
+   
+}
+
+.links a{
+   display:block;
+   text-align:center;
+   font-size:1.4rem;
+   margin-bottom:3px;
+}
+
+.social{
+   text-align:center;
+   margin-top:15px;
+}
+
+.social i{
+   
+   color:#222;
+   margin:8px;
+   font-size:1.7rem;
+}
+
+#paraDiv{
+   text-align:center;
+   font-size:2.6rem;
+   font-weight:bolder;
+}
+
+#para{
+   
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#para2{
+  color:blue;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+/*  */
+
+.rotate1{
+   transform:rotate(360deg);
+}
+
+.rotate2{
+   transform:rotate(-360deg);
+}
+
+
+#closeBar{
+   display:none;
+}
+
+hr{
+   display:none;
+   
+}
+
+
